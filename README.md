@@ -20,6 +20,6 @@
 <li>Create your feature branch (git checkout -b feature/YourFeature)</li>
 <li>Commit your changes (git commit -m 'Add some feature')</li>
 <li>Push to the branch (git push origin feature/YourFeature)</li>
-<li>Open a pull reques</li>t
+<li>Open a pull request</li>
 </ol>
 
