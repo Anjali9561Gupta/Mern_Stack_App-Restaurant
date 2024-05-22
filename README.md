@@ -2,6 +2,7 @@
 
 <p>This is a full-stack restaurant application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).The application allows users to browse a menu,place there RESERVATION. Administrators can manage the menu and view all orders.</p>
 <h1>Live on:</h1>
+<span>https://mern-stack-app-restaurant.vercel.app/</span>
 <h1>Technologies</h1>
 <ul>
 <li>Frontend: React.js, Redux, React Router, Axios</li>
@@ -22,24 +23,3 @@
 <li>Open a pull reques</li>t
 </ol>
 
-
-Project Structure
-
-restaurant-app/
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── server.js
-│   └── .env
-└── frontend/
-    ├── public/
-    ├── src/
-    │   ├── components/
-    │   ├── pages/
-    │   ├── redux/
-    │   ├── App.js
-    │   ├── index.js
-    │   └── .env
